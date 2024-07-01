@@ -3,7 +3,7 @@
 <h3 align="center">A passionate University Student in Ireland</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV5azI0cHoydG5yYnYwbWxmZjFmNXk3aWphcXA2YWlrMnE0bGh4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **OpenCV**
 
 - 📫 How to reach me **jideosuagwu@gmail.com**
 
